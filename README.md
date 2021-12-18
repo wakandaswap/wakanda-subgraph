@@ -1,6 +1,6 @@
 # WakandaSwap Subgraph
 
-[WakandaSwap](https://pantherswap.com/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
+[WakandaSwap](https://wakandaswap.net/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
 
 This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of WakandaSwap contracts, and contains derived stats for things like historical data and USD prices.
 

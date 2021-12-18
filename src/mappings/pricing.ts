@@ -53,7 +53,7 @@ let WHITELIST: string[] = [
   '0x2170ed0880ac9a755fd29b2688956bd959f933f8', // WETH
   '0x250632378e573c6be1ac2f97fcdf00515d0aa91b', // BETH
   '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82', // CAKE
-  '0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7', // WAKANDA
+  '0x5344c20fd242545f31723689662ac12b9556fc3d', // WAKANDA
 ]
 
 // minimum liquidity required to count towards tracked volume for pairs with small # of Lps
